@@ -1,4 +1,4 @@
-# terraform.sh
+# terraform.sh installing in Ubuntu.
 
 
 
