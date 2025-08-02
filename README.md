@@ -10,5 +10,6 @@ sudo apt update && sudo apt install -y terraform && terraform -version
 #THIS PART INSTALL AWS CLI
 
 sudo apt update
+
 sudo apt install awscli -y
 
